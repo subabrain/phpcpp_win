@@ -1,2 +1,2 @@
 # phpcpp_win
-PHPCPP compiled for Windows
+PHP-CPP compiled for Windows as .dll and .lib File.
